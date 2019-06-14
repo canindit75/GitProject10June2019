@@ -1,0 +1,14 @@
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\UnitTestProject1_june10.dll
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\UnitTestProject1_june10.pdb
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\nunit.framework.dll
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\WebDriver.dll
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\WebDriver.Support.dll
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\nunit.framework.pdb
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\nunit.framework.xml
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\WebDriver.xml
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\WebDriver.Support.xml
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\obj\Debug\UnitTestProject1_june10.csprojResolveAssemblyReference.cache
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\obj\Debug\UnitTestProject1_june10.dll
+c:\users\cteamyslp0020\documents\visual studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\obj\Debug\UnitTestProject1_june10.pdb
+C:\Users\CTEAMYSLP0020\Documents\Visual Studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\CTEAMYSLP0020\Documents\Visual Studio 2015\Projects\UnitTestProject1_june10\UnitTestProject1_june10\bin\Debug\UnitTestProject1_june10.dll.config
